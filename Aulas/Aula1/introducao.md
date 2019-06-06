@@ -1,6 +1,6 @@
 # Introdução Básica
 
-##### Git - SCM
+#### Git - SCM
 
 Inicialmente projetado e desenvolvido por Linus Torvalds, o Git é um sistema de controle de versões **distribuído**, seu principal uso é no desenvolvimento de software, mas pode ser usado para registrar o histórico de edições de qualquer tipo de arquivo. 
 
@@ -12,7 +12,7 @@ O sistema distribuído permite que vários desenvolvedores trabalhem no mesmo pr
 Mais informações em: [Wikipedia](https://pt.wikipedia.org/wiki/Git)
 
 
-###### GitHub
+#### GitHub
 
 O GitHub foi desenvolvido por Chris Wanstrath, J. Hyett, Tom Preston-Werner e Scott Chacon, é uma plataforma de **hospedagem** de código-fonte com controle de versão (usando Git).
 
