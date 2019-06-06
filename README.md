@@ -1,8 +1,8 @@
 ## :computer: Git & GitHub Study
 
-Registro de estudo de algumas funcionalidades e usos do Git e Github.
+Estudo de algumas funcionalidades e usos do Git e Github.
 
-<img src="Imagens/gitandgithub.jpeg" width=855 height=220>
+<img src="Imagens/gitandgithub.jpeg" width=570 height=146>
 
 Aula 1: [Introdução](Aulas/Aula1/introducao.md)
 
