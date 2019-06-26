@@ -1,6 +1,9 @@
 # Instalação e Configuração do Git
 
 
+<img src="config.jpg " alt="Resumo>
+
+
 ## Instalando
 
 Para fazer a instalação do Git, basta acessar o site: https://git-scm.com/ e seguir os passos para instalação de acordo com o seu sistema operacional. 
