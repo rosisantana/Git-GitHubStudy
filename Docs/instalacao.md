@@ -1,7 +1,7 @@
 # Instalação e Configuração do Git
 
 
-<img src="config.jpg " alt="Resumo" width=500 height=265>
+<img src="config.png " alt="Resumo" width=500 height=265>
 
 
 ## Instalando
@@ -49,6 +49,11 @@ No terminal, basta digitar:
 Dessa forma, será exibido no terminal todas as configurações que o Git encontrar naquele momento. 
 
 <br>Mais informações em: [Git-SCM](https://git-scm.com/book/pt-br/v1/Primeiros-passos-Configura%C3%A7%C3%A3o-Inicial-do-Git)
+
+**Tópico Anterior:** [Introdução - O que é Git e GitHub](Docs/introducao.md)
+
+**Próximo Tópico:** [Instalando e configurando Git](Docs/instalacao.md)
+
 
 
 

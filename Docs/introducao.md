@@ -17,5 +17,5 @@ O GitHub foi desenvolvido por Chris Wanstrath, J. Hyett, Tom Preston-Werner e Sc
 <img src="gitHub.png" width=473 height=256><br><br>
 
 [Fonte da Imagem](https://www.edureka.co/blog/git-vs-github/)<br>
-Mais informações em: [Wikipedia - Git](https://pt.wikipedia.org/wiki/Git)<br>
-Mais informações em: [Wikipedia - GitHub](https://pt.wikipedia.org/wiki/GitHub)
+
+**Próximo Tópico:** [Instalando e configurando Git](instalacao.md)
