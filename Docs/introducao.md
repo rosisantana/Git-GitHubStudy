@@ -14,7 +14,7 @@ O GitHub foi desenvolvido por Chris Wanstrath, J. Hyett, Tom Preston-Werner e Sc
 
 É utilizado por programadores para armazenar e divulgar seus projetos pessoais, onde também é possível contribuir com projetos privados e/ou Open Source em qualquer lugar do mundo. Ele permite controle de acesso, gerenciamento de tarefas, recursos de colaboração e muito mais. Além disso, GitHub pode hospedar os códigos-fonte do seu projeto em várias linguagens de programação e manter o controle de cada uma das alterações feitas em cada iteração.
 
-<img src="gitHub.png" width=473 height=256><br><br>
+<img src="imagens/gitHub.png" width=473 height=256><br><br>
 
 [Fonte da Imagem](https://www.edureka.co/blog/git-vs-github/)<br>
 
