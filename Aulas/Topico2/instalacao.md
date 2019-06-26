@@ -1,7 +1,7 @@
 # Instalação e Configuração do Git
 
 
-<img src="config.jpg " alt="Resumo">
+<img src="config.jpg " alt="Resumo" width=500 height=265>
 
 
 ## Instalando
